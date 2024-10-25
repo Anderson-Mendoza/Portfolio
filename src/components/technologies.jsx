@@ -9,27 +9,15 @@ import ImageHtml from "../assets/html-logo.png";
 export default function Tech() {
 
     return (
-        <div className="container-tech" >
-            <h2 className="title-tech">Tecnologias</h2>
-            <div className="container-image-tech" >
-                <button className="container-image-tech-button">
-                    <img className="image-tech" src={ImageCss} alt="logo css" />
-                </button>
 
-                <button className="container-image-tech-button">
-                    <img className="image-tech" src={ImageHtml} alt="logo HTML" />
-                </button>
-
-                <button className="container-image-tech-button">
-                    <img className="image-tech" src={ImageJs} alt="logo Javascript" />
-                </button>
-
-                <button className="container-image-tech-button">
-                    <img className="image-tech" src={ImageReact} alt="logo React" />
-                </button>
-
+        <div className="container">
+            <h2 className="text title">Tecnologias</h2>
+            <div className="image-tech">
+                <img src={ImageCss} alt="logo css" />
+                <img src={ImageHtml} alt="logo HTML" />
+                <img src={ImageJs} alt="logo Javascript" />
+                <img src={ImageReact} alt="logo React" />
             </div>
-
         </div>
     );
 }
