@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/https//andersonmendoza.github.io/portfolio-github-pages/build/static/css/main.7c2683f5.css",
+    "main.js": "/https//andersonmendoza.github.io/portfolio-github-pages/build/static/js/main.3e00a652.js",
+    "static/js/453.7d1ffe6d.chunk.js": "/https//andersonmendoza.github.io/portfolio-github-pages/build/static/js/453.7d1ffe6d.chunk.js",
+    "static/media/react-logo.png": "/https//andersonmendoza.github.io/portfolio-github-pages/build/static/media/react-logo.077af94ad2c3e0120347.png",
+    "static/media/css-logo.png": "/https//andersonmendoza.github.io/portfolio-github-pages/build/static/media/css-logo.efd17a831ff3e26324b2.png",
+    "static/media/images.jpeg": "/https//andersonmendoza.github.io/portfolio-github-pages/build/static/media/images.8c5b6f740f7b58a6fe16.jpeg",
+    "index.html": "/https//andersonmendoza.github.io/portfolio-github-pages/build/index.html",
+    "static/media/javascript-logo-svg-vector.svg": "/https//andersonmendoza.github.io/portfolio-github-pages/build/static/media/javascript-logo-svg-vector.9abe85eb93cd836727516ec7cf563424.svg",
+    "main.7c2683f5.css.map": "/https//andersonmendoza.github.io/portfolio-github-pages/build/static/css/main.7c2683f5.css.map",
+    "main.3e00a652.js.map": "/https//andersonmendoza.github.io/portfolio-github-pages/build/static/js/main.3e00a652.js.map",
+    "453.7d1ffe6d.chunk.js.map": "/https//andersonmendoza.github.io/portfolio-github-pages/build/static/js/453.7d1ffe6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2683f5.css",
+    "static/js/main.3e00a652.js"
+  ]
+}
