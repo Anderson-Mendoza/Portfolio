@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/https//andersonmendoza.github.io/portfolio/static/css/main.7c2683f5.css",
-    "main.js": "/https//andersonmendoza.github.io/portfolio/static/js/main.53418191.js",
-    "static/js/453.7d1ffe6d.chunk.js": "/https//andersonmendoza.github.io/portfolio/static/js/453.7d1ffe6d.chunk.js",
-    "static/media/react-logo.png": "/https//andersonmendoza.github.io/portfolio/static/media/react-logo.077af94ad2c3e0120347.png",
-    "static/media/css-logo.png": "/https//andersonmendoza.github.io/portfolio/static/media/css-logo.efd17a831ff3e26324b2.png",
-    "static/media/images.jpeg": "/https//andersonmendoza.github.io/portfolio/static/media/images.8c5b6f740f7b58a6fe16.jpeg",
-    "static/media/javascript-logo-svg-vector.svg": "/https//andersonmendoza.github.io/portfolio/static/media/javascript-logo-svg-vector.9abe85eb93cd836727516ec7cf563424.svg",
-    "index.html": "/https//andersonmendoza.github.io/portfolio/index.html",
-    "main.7c2683f5.css.map": "/https//andersonmendoza.github.io/portfolio/static/css/main.7c2683f5.css.map",
-    "main.53418191.js.map": "/https//andersonmendoza.github.io/portfolio/static/js/main.53418191.js.map",
-    "453.7d1ffe6d.chunk.js.map": "/https//andersonmendoza.github.io/portfolio/static/js/453.7d1ffe6d.chunk.js.map"
+    "main.css": "/https//Anderson-Mendoza.github.io/Portfolio/static/css/main.e6f5bca2.css",
+    "main.js": "/https//Anderson-Mendoza.github.io/Portfolio/static/js/main.026d795d.js",
+    "static/js/453.7d1ffe6d.chunk.js": "/https//Anderson-Mendoza.github.io/Portfolio/static/js/453.7d1ffe6d.chunk.js",
+    "static/media/react-logo.png": "/https//Anderson-Mendoza.github.io/Portfolio/static/media/react-logo.077af94ad2c3e0120347.png",
+    "static/media/css-logo.png": "/https//Anderson-Mendoza.github.io/Portfolio/static/media/css-logo.efd17a831ff3e26324b2.png",
+    "static/media/images.jpeg": "/https//Anderson-Mendoza.github.io/Portfolio/static/media/images.8c5b6f740f7b58a6fe16.jpeg",
+    "static/media/javascript-logo-svg-vector.svg": "/https//Anderson-Mendoza.github.io/Portfolio/static/media/javascript-logo-svg-vector.9abe85eb93cd836727516ec7cf563424.svg",
+    "index.html": "/https//Anderson-Mendoza.github.io/Portfolio/index.html",
+    "main.e6f5bca2.css.map": "/https//Anderson-Mendoza.github.io/Portfolio/static/css/main.e6f5bca2.css.map",
+    "main.026d795d.js.map": "/https//Anderson-Mendoza.github.io/Portfolio/static/js/main.026d795d.js.map",
+    "453.7d1ffe6d.chunk.js.map": "/https//Anderson-Mendoza.github.io/Portfolio/static/js/453.7d1ffe6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c2683f5.css",
-    "static/js/main.53418191.js"
+    "static/css/main.e6f5bca2.css",
+    "static/js/main.026d795d.js"
   ]
 }
