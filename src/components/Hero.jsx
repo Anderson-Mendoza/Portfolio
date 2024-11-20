@@ -4,6 +4,11 @@ import Image from "../assets/images.jpeg";
 
 
 function Hero() {
+
+    const handleClick = function () {
+        window.open('https://www.google.com/', '_blank')
+    }
+
     return (
         <div className="container">
             <div className="profile-btn-available">
@@ -17,14 +22,14 @@ function Hero() {
             </div>
 
             <div className="text">
-                <h2 >!Hola, Soy Anderson Mendoza¡</h2>
+                <h2 >¡Hola, Soy Anderson Mendoza!</h2>
                 <p >Soy desarrollador de software en proceso de aprendizaje
                     y me enfoco especialmente en el area de front-end developer
                 </p>
                 {/* <p > {loremIpsum({ p: 1 })} </p> */}
             </div>
 
-            <button className="btn">
+            <button type="button" onClick={handleClick} className="btn">
                 <span> Contactame </span>
             </button>
         </div>
