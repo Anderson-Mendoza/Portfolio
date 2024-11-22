@@ -1,13 +1,27 @@
 import React from "react";
 import Image from "../assets/images.jpeg";
+import { TbMessage2Share } from "react-icons/tb";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 // import { loremIpsum } from "react-lorem-ipsum";
 
 
 function Hero() {
 
-    const handleClick = function () {
-        window.open('https://www.google.com/', '_blank')
+    const handleClickLinkedin = function () {
+        window.open('https://www.linkedin.com/in/anderson-mendoza-dev', '_blank');
+    };
+
+    const handleClickGithub = function () {
+        window.open('https://www.github.com/Anderson-Mendoza', '_blank');
+    };
+
+    const handleClickEmail = function () {
+        window.open('https://mail.google.com/mail/u/1/#inbox', '_blank');
     }
+
+
+
+
 
     return (
         <div className="container">
@@ -16,7 +30,7 @@ function Hero() {
                     src={Image}
                     alt="foto de Sheshomaru"
                 ></img>
-                <button className="btn">
+                <button type="button" onClick={handleClickLinkedin} className="btn">
                     <span> Disponible para trabajar </span>
                 </button>
             </div>
@@ -29,8 +43,31 @@ function Hero() {
                 {/* <p > {loremIpsum({ p: 1 })} </p> */}
             </div>
 
-            <button type="button" onClick={handleClick} className="btn">
-                <span> Contactame </span>
+            <button type="button" className="btn" onClick={handleClickEmail}>
+                <span>
+                    <TbMessage2Share
+                        style={{
+                            marginRight: "10px"
+                        }} />
+                    Contactame </span>
+            </button>
+
+            <button type="button" className="btn" style={{ marginLeft: "20px" }} onClick={handleClickLinkedin}>
+                <span>
+                    <FaLinkedin
+                        style={{
+                            marginRight: "10px"
+                        }} />
+                    Linkedin </span>
+            </button>
+
+            <button type="button" className="btn" style={{ marginLeft: "20px" }} onClick={handleClickGithub} >
+                <span>
+                    <FaGithub
+                        style={{
+                            marginRight: "10px"
+                        }} />
+                    Github </span>
             </button>
         </div>
     )
