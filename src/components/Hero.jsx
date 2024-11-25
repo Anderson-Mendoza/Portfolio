@@ -19,10 +19,6 @@ function Hero() {
         window.open('https://mail.google.com/mail/u/1/#inbox', '_blank');
     }
 
-
-
-
-
     return (
         <div className="container">
             <div className="profile-btn-available">
